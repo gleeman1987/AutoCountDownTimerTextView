@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AutoCountDownTextView">
+        <attr name="pre_text" format="string"/>
+        <attr name="post_text" format="string"/>
+        <attr name="unit" format="string"/>
+        <attr name="duration" format="integer"/>
+        <attr name="sharedpreference_name" format="string"/>
+        <attr name="post_color" format="color"/>
+        <attr name="count_down_color" format="color"/>
+    </declare-styleable>
+</resources>
